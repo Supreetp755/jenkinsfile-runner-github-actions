@@ -1,6 +1,6 @@
 FROM jonico/jenkinsfile-runner-github-action
 
-LABEL "com.github.actions.name"="Jenkinsfile Runner Prepackaged"
+LABEL " "
 LABEL "com.github.actions.description"="Runs Jenkinsfile in a pre-packaged single-shot master"
 LABEL "com.github.actions.icon"="battery"
 LABEL "com.github.actions.color"="blue"
